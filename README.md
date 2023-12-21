@@ -6,7 +6,7 @@
 
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuMinhQuanDev&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=toilaquanvu&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
         alt="vmquan18"/>
 </p>
 
