@@ -18,7 +18,7 @@
 -->
 [![](https://visitcount.itsvg.in/api?id=VuMinhQuanDev&label=Profile%20Views&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
-<h3 align="center" style="font-weight: bold" > "Tôi thích ở nhà một mình, pha cốc cafe ngon, đọc một cuốn sách mình thích. Cứ yên lặng như vậy, dạo chơi trong câu chuyện của người đời, trưởng thành trong một thế giới khác của mình". 🌿.</h3>
+<!-- <h3 align="center" style="font-weight: bold" > "Tôi thích ở nhà một mình, pha cốc cafe ngon, đọc một cuốn sách mình thích. Cứ yên lặng như vậy, dạo chơi trong câu chuyện của người đời, trưởng thành trong một thế giới khác của mình". 🌿.</h3> -->
 <!--
 **VuMinhQuanDev/VuMinhQuanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
