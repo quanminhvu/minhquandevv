@@ -3,13 +3,13 @@
 
 - 📫 How to reach me **quanvm18@gmail.com**
 - ⚡ Fun fact **I'm a tree who likes to be a good programmer 🍀**
-
+<!--
 <p align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquandeveloper&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
         alt="vmquan18"/>
 </p>
-
+-->
 <p align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/wakatime/?username=vmquan18&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
