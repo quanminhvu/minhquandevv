@@ -50,9 +50,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Minhquandeveloper">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquandeveloper&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
+<p align="center">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/wakatime/?username=vmquan18&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
+        alt="vmquan18"/>
+</p>
   <a href="#" title="Minhquandeveloper">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquandeveloper&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
@@ -64,12 +66,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquandeveloper&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
         alt="vmquan18"/>
 </p>
+  <a href="#" title="Minhquandeveloper">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquandeveloper&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
 -->
-<p align="center">
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime/?username=vmquan18&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
-        alt="vmquan18"/>
-</p>
+
 
 [![](https://visitcount.itsvg.in/api?id=minhquandeveloper&label=Profile%20Views&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
