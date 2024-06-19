@@ -4,7 +4,7 @@
 - 📫 How to reach me **quanvm18@gmail.com**
 - ⚡ Fun fact **I'm a tree who likes to be a good programmer 🍀**
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -46,7 +46,7 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
