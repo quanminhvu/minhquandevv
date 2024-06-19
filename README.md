@@ -50,11 +50,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-<p align="center">
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/wakatime/?username=vmquan18&show_icons=true&locale=en&layout=compact&langs_count=10&count_private=true"
         alt="vmquan18"/>
-</p>
   <a href="#" title="Minhquandeveloper">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhquandeveloper&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
