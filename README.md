@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Vu Minh Quan 👋 </h1>
 <h3 align="center">🌱 I'm a Backend Developer. Contact me: quanvm18@gmail.com</h3>
+
 <a href="#" target="_blank">
   <img src="minhquandev.svg" width="1200" alt="minhquandev" />
 </a>
-
 
 <h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <br>
