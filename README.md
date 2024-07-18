@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Vu Minh Quan 👋 </h1>
-<h3 align="center">🌱 I'm a Backend Developer. 📩: quanvm18@gmail.com</h3>
+<h3 align="center">🌱 I'm a Fullstack Developer. 📩: quanvm18@gmail.com</h3>
 
 <h3 align="center">🛠 Technologies and Tools 🛠</h3>
 <!-- https://simpleicons.org/ -->
