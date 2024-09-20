@@ -14,6 +14,13 @@ I'm a Frontend and Backend Developer. I am always eager to learn new things. but
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<p align="center">
+  <a href="https://github.com/minhquandevv">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,laravel,mysql,redis" />
+  </a>
+</p>
+
 <br> <br>
 
 | <a href="https://github.com/minhquandevv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=minhquandevv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/minhquandevv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquandevv&layout=compact&theme=buefy&hide_border=true" /></a> |
