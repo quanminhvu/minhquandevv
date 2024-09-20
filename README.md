@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/minhquandevv"><img width="80%" src="./assets/user-name-header.png" /></a></p>
+<p align="center"><a href="https://github.com/minhquandevv"><img width="80%" src="./user-name-header.png" /></a></p>
 
 <br />
 
