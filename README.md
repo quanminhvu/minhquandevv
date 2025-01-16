@@ -27,7 +27,6 @@ I'm a Mobile and Website Developer. I am always eager to learn new things. but t
 -->
 <br> <br>
 
-| <a href="https://github.com/minhquandevv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=minhquandevv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/minhquandevv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquandevv&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <br />
