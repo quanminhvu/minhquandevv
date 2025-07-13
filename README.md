@@ -8,5 +8,3 @@ I'm a Software Engineer. I am always eager to learn new things. but that doesn�
 
 - 💼 Email: quanvm18@gmail.com
 - ❤️ I love coding
-
-<br />
